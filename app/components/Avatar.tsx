@@ -22,7 +22,7 @@ const Avatar: React.FC<AvatarProps> = ({ user }) => {
                     src={user?.image || '/images/placeholder.jpg'}
                     fill
                 />
-
+ 
             
             </div>
             {isActive && (
