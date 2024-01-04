@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "postinstall": "primsa generator"
+    "postinstall": "prisma generator"
   },
   "dependencies": {
     "@headlessui/react": "^1.7.17",
